@@ -15,6 +15,14 @@ Includes:
 • TestFile.mcam (optional sample)
 
 ---
+## 📘 Article & Background
+
+This project is based on a workflow described in my Medium article:  
+https://medium.com/@ps29/automating-z-level-layer-offsets-in-mastercam-a-net-hook-method-that-saved-hours-of-repetitive-wor-b5f3bea5a3ba
+
+The article explains the motivation, the problem solved, and the practical benefits of automating Z-level layer offsets in Mastercam.
+
+---
 
 ## ✨ Features  
 • Automates Z‑layer offsets  
@@ -53,7 +61,6 @@ More info in docs/overview.md
 
 ## 📸 Screenshots  
 Screenshots stored in docs/screenshots/  
-(add your own: tool dialog, before/after, workflow steps)
 
 ---
 
